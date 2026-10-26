@@ -1,0 +1,25 @@
+{
+  "name": "cn5006week4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamesaIslamRahi/CN5006week4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RamesaIslamRahi/CN5006week4/issues"
+  },
+  "homepage": "https://github.com/RamesaIslamRahi/CN5006week4#readme",
+  "dependencies": {
+    "mongodb": "^7.7.0",
+    "mongoose": "^9.11.4"
+  }
+}
